@@ -5,7 +5,7 @@ AI, Machine learning, Web Development and Designing Algorithms are areas I am in
 ### Skills 🛠️
 Python,C,C++,HTML,CSS and JavaScript<br>
 ### How to reach me 📞
-[LinkedIn](www.linkedin.com/in/aaradhytiwari)
+[LinkedIn](www.linkedin.com/in/aaradhytiwari)<br>
 [GitHub](https://github.com/Shootingmania)
 
 
