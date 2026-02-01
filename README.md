@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi! I am Aaradhy👋
+I'm a Computer Science and Applied Mathematics undergrad at IIIT Delhi.<br>
+An engineer in the building who is just curious and learning about technology every day.<br>
+AI, Machine learning, Web Development and Designing Algorithms are areas I am interested in.<br>
+### Skills 🛠️
+Python,C,C++,HTML,CSS and JavaScript<br>
+### How to reach me 📞
+[LinkedIn](www.linkedin.com/in/aaradhytiwari)
+[GitHub](https://github.com/Shootingmania)
+
+
 
 <!--
 **Shootingmania/Shootingmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
